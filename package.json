@@ -1,0 +1,11 @@
+{
+  "name": "AniDex",
+  "version": "1.0.0",
+  "description": "A Progressive Web Application for managing pet care tasks and Tracking Veterinary Appointment System with Real-Time Notification System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al-Fhaigar Usman",
+  "license": "MIT"
+}
